@@ -48,7 +48,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Commandes
 
-### `npm init @eslint/config`
-### `npm install eslint-config-airbnb-typescript --save-dev`
-### `npm install prettier eslint-config-prettier eslint-plugin-prettier --save-dev`
-### `npx husky-init && npm install`
+##### `npm init @eslint/config`
+##### `npm install eslint-config-airbnb-typescript --save-dev`
+##### `npm install prettier eslint-config-prettier eslint-plugin-prettier --save-dev`
+##### `npx husky-init && npm install`
